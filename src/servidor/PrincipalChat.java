@@ -4,13 +4,15 @@
  * and open the template in the editor.
  */
 
-package proyecto_chat;
+package servidor;
+
+import cliente.*;
 
 /**
  *
  * @author Lara Vazquez Dorna
  */
-public class Proyecto_Chat {
+public class PrincipalChat {
 
     /**
      * @param args the command line arguments
